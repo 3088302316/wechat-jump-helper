@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.vscode/
+.idea/
+dist/
+build/
+*.log
+.env
+.env.*
+
+/发布/
